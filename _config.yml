@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp.png"
+  avatar           : "pfp.jpg"
   name             : "Henrik Hällerfors"
   pronouns         : # example: "she/her"  
   bio              : "Third Year PhD Candidate"
