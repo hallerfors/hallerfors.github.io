@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in Economics at Uppsala University, mainly interested in topics related to education and labor economics. I am currently working on the intergenerational aspects of an expansion of higher education in Sweden, as well as the effects of the abolishment of joint taxation on female labour supply and its consequential impact. 
+* I am a third year PhD student in Economics at Uppsala University. 
+
+* Research interests: Labor and Education Economics. 
+
+* Currently working on: Labor Market Effects of Advance Notice, Worker Representation at Corporate Boards, Intergenerational Effects of a Joint Tax Reform, Geographical Expansion of Higher Education.
