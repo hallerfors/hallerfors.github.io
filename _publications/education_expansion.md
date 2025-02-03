@@ -6,5 +6,5 @@ excerpt: "This policy report is about the higher education expansion in 1977 in 
 date: 2024
 venue: 'SNS'
 paperurl: '/files/democratizing-and-decentralizing-higher-education-english-summary.pdf'
-citation: 'Bergh, A., Hällerfors, H., Tåg, J., & Åstebro, T. (2024). Democratizing and Decentralizing Higher Education: Evaluating the Swedish Higher Education Expansion in 1977. SNS.'
+citation: "Bergh, A., Hällerfors, H., Tåg, J., & Åstebro, T. (2024). Democratizing and Decentralizing Higher Education: Evaluating the Swedish Higher Education Expansion in 1977. SNS."
 ---
