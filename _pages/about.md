@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Third year PhD student in Economics at Uppsala University. 
+* Third year PhD student in Economics at Uppsala University. 
 
-# Research interests: Labor and Education Economics. 
+* Research interests: Labor and Education Economics. 
 
-# Currently working on: Labor Market Effects of Advance Notice, Effects of Local Union Representation, Intergenerational Effects of a Joint Tax Reform, Geographical Expansion of Higher Education.
+* Currently working on: Labor Market Effects of Advance Notice, Effects of Local Union Representation, Intergenerational Effects of a Joint Tax Reform, Geographical Expansion of Higher Education.
